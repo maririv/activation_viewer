@@ -11,10 +11,10 @@ styles = {
   xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
   <NamedLayer>
-    <Name>Transport grading line</Name>
+    <Name>Grading line</Name>
   """ Grading lines consist in lines with the trhee grading classes and their colors red, orange and yellow"""
     <UserStyle>
-      <Title>Transport grading line style</Title>
+      <Title>Lines</Title>
       <FeatureTypeStyle>
         <Rule>
           <Title>Destroyed</Title>
@@ -74,9 +74,9 @@ styles = {
   xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 """ Grading points consist in squared point white outline and filled with the correspondent color red, orange and yellow"""
   <NamedLayer>
-    <Name>Building point grading</Name>
+    <Name>Grading point grading</Name>
     <UserStyle>
-      <Title>Grading point style</Title>
+      <Title>Square filled points</Title>
       <FeatureTypeStyle>
         <Rule>
           <Title>Destroyed</Title>
